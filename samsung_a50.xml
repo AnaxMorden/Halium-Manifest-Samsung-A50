@@ -7,7 +7,7 @@
 <project path="vendor/samsung/a50" name="proprietary_vendor_samsung_a50" remote="a50" />
 <project path="hardware/samsung_slsi/fm" name="android_hardware_samsung_slsi_fm" remote="a50" />
 <project path="hardware/samsung" name="android_hardware_samsung" remote="a50" />
-<project path="device/samsung/universal9610-common" name="android_device_motorola_exynos9610-common" remote="a50" />
+<project path="device/samsung/universal9610-common" name="device_samsung_universal9610-common" remote="a50" />
 
 <remote name="a50"
         fetch="https://github.com/AnaxMorden"
